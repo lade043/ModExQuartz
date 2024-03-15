@@ -10,7 +10,7 @@ $$
 p_{F}= h \sqrt[3]{\frac{3n}{8 \pi}}
 $$
 Die *Fermi-Energie* ist die dem Impuls zugeordnete Energie. Ein solches Gas wird auch als **entartetes Gas** bezeichnet.
-Im Extremfall von $T=0$ sind alle Zustände bis $p_F$ besetzt und kein einziger darüber. Mit steigender Temperatur verschwimmt die Grenze.
+Im Extremfall von $T=0$ sind alle Zustände bis $p_F$ besetzt und kein einziger darüber. Mit steigender Temperatur verschwimmt die Grenze. Für die Verteilung siehe [[Stochastische Verteilungen#*Fermi-Dirac*-Verteilung]]
 
 
  *Folder tags:*

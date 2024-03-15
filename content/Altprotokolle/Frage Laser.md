@@ -1,12 +1,11 @@
 
-#question #todo 
+#question #kristall 
 
 > [!question] Frage
 > Erläutern Sie die Grundlagen eines Lasers.
 > 
 
 # Antwort
-
 
 
 # Vorkommen

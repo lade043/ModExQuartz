@@ -11,7 +11,10 @@ Der Beta-Zerfall wurde 1899 von *Ernest Rutherford* entdeckt. Dabei wird zwische
         &{\mathbf{n}^0}&\longrightarrow &{\mathbf{p}^+}&+{\mathbf{e}^-}&+\bar{\nu}_e\\
         q:\quad &0 &\longrightarrow &1  &-1 &+0\\
         s: \quad&\frac{1}{2} &\longrightarrow &\frac{1}{2} &-\frac{1}{2} &+\frac{1}{2}
-    \end{aligned}$$ Unter Betrachtung von Ladung und [[Spin des Elektrons]] wird schnell ersichtlich warum es diese Kombination aus [[Elektron]] $\mathbf{e}^-$ und Anti-Elektron-[[Neutrino]] $\bar{\nu}_e$ benötigt bei der Umwandlung. Das Elektron und das Neutrino werden im folgenden aus dem Kern mit hoher Energie emittiert. Die Gesamtreaktion kann geschrieben werden als $$\ce{^A_ZA} \longrightarrow \ce{^A_{Z+1}B} + {\mathbf{e}^-}+ \bar{\nu}_e$$ Außerdem werden kurz angerissen:
+    \end{aligned}$$ Unter Betrachtung von Ladung und [[Spin des Elektrons]] wird schnell ersichtlich warum es diese Kombination aus [[Elektron]] $\mathbf{e}^-$ und Anti-Elektron-[[Neutrino]] $\bar{\nu}_e$ benötigt bei der Umwandlung. Das Elektron und das Neutrino werden im folgenden aus dem Kern mit hoher Energie emittiert. Die Gesamtreaktion kann geschrieben werden als $$\ce{^A_ZA} \longrightarrow \ce{^A_{Z+1}B} + {\mathbf{e}^-}+ \bar{\nu}_e$$
+
+Grundlage für alle Übergänge ist die energetisch günstigere Konfiguration nach der [[Bethe-Weizsäcker-Formel]].
+Außerdem werden kurz angerissen:
 
 ## $\beta^+$-Zerfall
 

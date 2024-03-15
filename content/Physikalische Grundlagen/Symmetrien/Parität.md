@@ -61,7 +61,14 @@ Für massebehaftete Teilchen ist im Allgemeinen die Helizität ungleich der Chir
 
 ![[chiralität-helizität.png]]
 
+## Folgen
+Durch die Erhaltung der *Helizität* kommt es beispielsweise zur [[Streuexperimente zur Strukturanalyse#Mott-Streeung]], da das nötige umklappen des Spins nicht möglich ist.
 
+Weiterhin ist der Zerfall eines [[Pion⁻]] in ein [[Elektron]] beispielsweise unterdrückt aufgrund des Übergangs von *Chiralität* und *Helizität*.
+Der Zerfall erfolgt
+nach
+$\pi^{-}\to e^{-} + \bar \nu_{e}$ bzw. analog für [[Muon]].
+Aufgrund der Massenverhältnisse ist das Elektron hochrelativistisch), wohingegen das Myon  eine geringere Geschwindigkeit hat. Die *Helizität* der Antineutrinos (die hier als masselos betrachtet werden können) ist positiv. Da das Pion keinen Spin trägt und die Zerfallsteilchen sich in entgegengesetzte Richtungen bewegen, müssen aufgrund der Drehimpulserhaltung Elektron bzw. Myon ebenfalls positive *Helizität* haben. Die [[Schwache Wechselwirkung]], die den Zerfall bewirkt, koppelt aber nur an Elektronen und Myonen linkshändiger *Chiralität*. Da das hochrelativistische Elektron nur eine sehr kleine linkshändige Komponente hat, ist der elektronische Zerfall gegenüber dem myonischen Zerfall stark unterdrückt.
 
  *Folder tags:*
 
