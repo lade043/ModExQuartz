@@ -13,10 +13,8 @@ Beim Eisenatom füllen 18 Elektronen die unteren Schalen vollständig auf, was d
 Zur leichteren Erinnerung kann hierfür auch das *Madelung*-Schema verwendet werden
 ![[Ex4_0723_Madelung-rule-and-filling-of-orbitals.png]]
 
-## Röntgenspektren und Atomstruktur
 
-Die Emission von [[Röntgenstrahlung]] durch Atome, nach Wilhelm Röntgen benannt, gibt Aufschluss über die innere Struktur der Atome. Wenn ein Elektron aus einem tiefer liegenden Orbital entfernt wird, entsteht ein Loch, das durch den Übergang eines Elektrons aus einer höheren Schale gefüllt wird, wobei ein Photon emittiert wird. Dieser Prozess erzeugt ein Spektrum, das charakteristisch für jedes Element ist.
-#todo/rewrite 
+ Die Hundschen Regeln spielen weiterhin eine wichtige Rolle in der **charakteristischen Strahlung** der [[Röntgenstrahlung]].
 
 ## Molekülphysik: Der Fall von molekularem Wasserstoff
 

@@ -1,4 +1,4 @@
-#altprotokolle
+#altprotokoll
 - [ ] Altprotokoll vom 2023-12-21: [[Notizen_2023-12-21_Altprotokoll_Wolf|Link zum Protokoll]]
 - [ ] Altprotokoll vom 2023-12-18: [[Notizen_2023-12-18_Altprotokoll_Wolf|Link zum Protokoll]]
 - [ ] Altprotokoll vom 2023-11-10: [[Notizen_2023-11-10_Altprotokoll_Wolf|Link zum Protokoll]]

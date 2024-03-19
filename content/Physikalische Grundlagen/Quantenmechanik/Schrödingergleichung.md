@@ -21,7 +21,24 @@ Die Wellenfunktion $\psi(x,t)$, eine komplexe Funktion, wird durch das Betragsqu
 # Erster Lösungsansatz der Schrödingergleichung
 
 Für zeitunabhängige Hamiltonfunktionen wird der [[Separationsansatz]] $\Psi(x,t) = f(t) \psi(x)$ verwendet, der zur Beziehung $$\hat{H}\psi(x) = E \psi(x) \quad \text{und} \quad f(t) = e^{-i \frac{E}{\hbar} t}$$ führt. Daraus resultiert die Wellenfunktion $$\Psi(x,t) = e^{-i \frac{E}{\hbar} t} \psi(x)$$ mit der Normierung $$|\Psi(x,t)|^2 = |\psi(x)|^2.$$
+Bei einem Potential, das gleich Null gesetzt wird, $V(x) \equiv 0$, ist die Lösung der [[Schrödingergleichung]] bekannt als:
 
+$$
+\Psi(x,t) = A e^{i(kx - \omega t)}
+$$
+
+mit der Energie:
+
+$$
+E = \frac{\hbar^2 k^2}{2m} = \hbar \omega
+$$
+
+Die Wellenzahl $k$ ist definiert durch:
+
+$$
+\left\lvert k \right\rvert = \frac{\sqrt{2mE}}{\hbar}
+$$
+Für die Ausbreitung dieser Welle siehe auch [[Wellendynamik]].
 
 
  *Folder tags:*

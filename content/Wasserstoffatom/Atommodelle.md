@@ -64,8 +64,7 @@ Dies führte zu einem Vergleich mit dem Sonnensystem, bei dem die Elektronen um 
 ### Verfeinerung des Rutherford-Streuexperiments
 
 Das Rutherford-Streuexperiment betrachtet den Atomkern als punktförmig und ignoriert die Elektronenhülle, was für das Auflösungsvermögen meist ausreichend ist. Wir verfeinern nun diese Anschauung durch die Integration korrekter Wellenfunktionen und die Nutzung elektromagnetischer Wellen. Dabei vereinfachen wir die Wellen im Fernfeld als ebene Wellen ([[Schrödingergleichung#Erster Lösungsansatz der Schrödingergleichung]]).
-# Potential eines Atoms und das Bohrsche Atommodell
-#todo/rewrite 
+# Bohrsche Atommodell
 
 Die Vorstellung, dass Elektronen in diskreten Bahnen um den Atomkern kreisen und dabei charakteristische Energieniveaus besetzen, wurde durch das Bohrsche Atommodell geprägt. Dieses Modell basiert auf der Coulombkraft und der Annahme, dass Elektronen nur bestimmte, durch stehende Wellen definierte, Bahnen einnehmen können. Es resultiert in diskreten Energieniveaus, die durch die verbesserte Rydberg-Formel, unter Berücksichtigung der reduzierten Masse, exakt beschrieben werden können:
 $$R_H = \frac{m_r c^2}{2} \alpha^2 Z^2$$
@@ -74,11 +73,19 @@ Bohr stellt dabei **3 Postulate** auf:
 1. Dem Elektron stehen nicht alle klassisch möglichen Bahnen zur Verfügung, sondern nur bestimmte ausgewählte von ihnen. Auf diesen Bahnen erzeugt es keine elektromagnetische Strahlung, sondern behält seine Energie. Dies sind die stationären Zustände des Atoms.
 2. Das Elektron kann von einem stationären Zustand in einen anderen springen. Dieser als Quantensprung bezeichnete Vorgang liegt außerhalb des Gültigkeitsbereichs der klassischen Mechanik und der Elektrodynamik. Beim Quantensprung zwischen stationären Zuständen mit verschiedener Energie, den Energieniveaus, wird elektromagnetische Strahlung emittiert oder absorbiert. Dabei wird die Frequenz  $f$ der Strahlung nicht durch die Umlauffrequenz des Elektrons bestimmt, sondern ausschließlich durch die Energiedifferenz  $\Delta E$ der beiden Zustände nach der von Max Planck für die Wärmestrahlung entdeckten Formel $f = \frac{\Delta E}{h}$
 3. Die Frequenz der erzeugten oder absorbierten Strahlung nähert sich der Umlauffrequenz des Elektrons an, wenn sich das Elektron im Anfangszustand nur langsam bewegt und in den energetisch nächstgelegenen Zustand springt.
+## Erweiterung durch Sommerfeld
 
+*Arnold Sommerfeld* erweiterte in den Jahren nach 1913 das **Bohrsche Atommodell**, um einige Unstimmigkeiten und Einschränkungen zu adressieren, die im ursprünglichen Modell von *Niels Bohr* vorhanden waren. 
 
-Das Bohrsche Atommodell und die damit verbundenen Entdeckungen bildeten die Grundlage für die Entwicklung der Quantenmechanik und die damit einhergehenden Berechnungen des [[Wasserstoffatom]]s. Sie zeigten, dass die Eigenschaften von Atomen und die Emission von Licht auf quantenmechanischen Prinzipien beruhen und nicht auf kontinuierlichen klassischen Vorstellungen.
+### Hauptbeiträge von Sommerfelds Erweiterung
 
-Diese Entwicklungen haben unser Verständnis der Materie grundlegend verändert und den Weg für die moderne Physik geebnet, indem sie zeigten, dass im Mikrokosmos quantenmechanische Gesetze und nicht klassische Mechanik herrschen.
+1. **Elliptische Bahnen**: Sommerfeld führte die Idee ein, dass Elektronen in Atomen nicht nur in kreisförmigen, sondern auch in elliptischen Bahnen um den Kern laufen können. Dies war eine Erweiterung des **Bohrschen Postulats**, das nur kreisförmige Bahnen berücksichtigte. Durch die Zulassung elliptischer Bahnen konnte Sommerfeld die [[Feinstruktur]] der [[Atomspektren]] erklären, die aus kleinen Aufspaltungen dieser Linien resultiert.
+
+2. **Quantenzahlen**: Sommerfeld erweiterte das Konzept der Quantenzahlen, die zur Beschreibung der Zustände von Elektronen in Atomen verwendet werden. Bohrs Modell verwendete eine Hauptquantenzahl $n$ zur Beschreibung der Energieebenen. Sommerfeld führte zusätzliche Quantenzahlen ein:
+   - Die **Nebenquantenzahl** $l$ (oder azimutale Quantenzahl), die den Drehimpuls des Elektrons beschreibt und Werte von $0$ bis $n-1$ annehmen kann.
+   - Die **magnetische Quantenzahl** $m$, die die Orientierung des Drehimpulses relativ zu einem externen Magnetfeld beschreibt und Werte von $-l$ bis $+l$ annehmen kann.
+
+3. **Relativistische Korrekturen**: Sommerfeld berücksichtigte die Effekte der speziellen Relativitätstheorie auf die Bewegung der Elektronen, insbesondere bei Elektronen, die sich auf stark elliptischen Bahnen mit Geschwindigkeiten nahe der Lichtgeschwindigkeit bewegen. Diese Korrekturen waren entscheidend für die genaue Erklärung der Feinstruktur der Spektrallinien.
 
 
 

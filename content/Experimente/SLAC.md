@@ -10,7 +10,7 @@ Einige der bemerkenswertesten Errungenschaften des SLAC umfassen:
 
 - **Entdeckung der Parton-Struktur in Protonen**: In den 1960er und 1970er Jahren führten Experimente am SLAC zur Entdeckung, dass Protonen aus kleineren Teilchen, den sogenannten Quarks, bestehen. Diese Entdeckungen trugen wesentlich zum [[Standard-Modell]] der Teilchenphysik bei.
 - **Nobelpreis für Physik**: Forschungen am SLAC wurden mehrfach mit dem Nobelpreis für Physik ausgezeichnet. Zum Beispiel erhielten *Richard Taylor, Jerome I. Friedman und Henry W. Kendall* den Preis im Jahr 1990 für ihre experimentellen Entdeckungen bezüglich der Quarkstruktur der Protonen und Neutronen.
-- **Entwicklung der Freie-Elektronen-Laser (FEL)**: SLAC ist auch bekannt für die Entwicklung und den Betrieb von leistungsstarken Freie-Elektronen-Lasern, die im X-ray-Bereich arbeiten. Der Linac Coherent Light Source (LCLS) ist ein solcher Laser, der extrem helle und kurze Röntgenpulse erzeugt, die für eine breite Palette von Forschungsbereichen, von der Materialwissenschaft bis zur Biologie, genutzt werden.
+- **Entwicklung der Freie-Elektronen-[[Laser]] (FEL)**: SLAC ist auch bekannt für die Entwicklung und den Betrieb von leistungsstarken Freie-Elektronen-Lasern, die im X-ray-Bereich arbeiten. Der Linac Coherent Light Source (LCLS) ist ein solcher Laser, der extrem helle und kurze Röntgenpulse erzeugt, die für eine breite Palette von Forschungsbereichen, von der Materialwissenschaft bis zur Biologie, genutzt werden.
 
 ### Zielsetzung und Forschungsschwerpunkte
 

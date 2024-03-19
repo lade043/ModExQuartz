@@ -6,7 +6,7 @@
 > 
 
 # Antwort
-![[Atommodelle#Potential eines Atoms und das Bohrsche Atommodell]]
+![[Atommodelle#Bohrsche Atommodell]]
 
 **Probleme**
 - Abstrahlung durch Beschleunigung der Ladung
