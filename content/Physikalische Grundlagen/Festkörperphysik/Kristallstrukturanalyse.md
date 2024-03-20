@@ -18,6 +18,11 @@ Eine einfachere Überprüfung dieser Bedingung ist über das [[Reziprokes Gitter
 Weitere mathematischen Methoden zur Bestimmung der Reflexionsrichtungen sind die [[Ewald-Kugel]] und die [[Brillouin-Zone]].
 
 
+# Debye-Scherrer-Verfahren
+Zur Untersuchung von kristallinen Pulvern wird gerne das *Debye-Scherrer-Verfahren* verwendet, bei welchem zusätzlich zu den Einkristallen auch zufällige Anordnungen ausgewertet werden können.
+Wenn die gestreute Strahlung aufgefangen wird, können glatte Ringe beoobachtet werden anstatt einfacher Punkte. Durch ausmessen der Ringe kann die [[Gittergeometrie]] bestimmt werden.
+
+![[Debye-Scherrer.png]]
 
 
  *Folder tags:*

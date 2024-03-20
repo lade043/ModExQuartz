@@ -9,6 +9,12 @@
 
 ![[Der photoelektrische Effekt]]
 
+> [!question] Alternative Frage
+> Erläutere den Photoeffekt und beschreibe die beiden relevanten Kennlinien, die mit diesem Phänomen verbunden sind. Was sagt der y-Achsenabschnitt bei der Energie-Frequenz-Kennlinie aus?
+> 
+
+Beim Photoeffekt werden wird monochromatisches Licht auf einen Festkörper geschiehenen. Man beobachtet eine Auslösung der Elektronen und eine obere Grenze für die kinetische Energie der Elektronen, welche nicht von der Intensität sondern nur von der Frequenz abhängt. Zur Bestimmung der Elektronenenergie wird eine Gegenspannung angelegt, wobei die Spannung notiert wird, bei welcher keine Elektronen mehr eintreffen. Wenn dieser Versuch für verschiedene Frequenzen durchführt erhält man eine Gerade mit Steigung des Planckschen Wirkungsquantums. Der y-Achsenabschnitt gibt die Auslösearbeit an.
+
 # Vorkommen
 1. [[Notizen_2023-06-06_Altprotokoll_Wolf]]
 2. [[Notizen_2023-12-21_Altprotokoll_Wolf]]

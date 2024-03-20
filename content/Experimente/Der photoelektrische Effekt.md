@@ -1,6 +1,6 @@
 #class/Ex-IV #experiment 
 
-*Albert Einstein* erklärte 1905 den photoelektrischen Effekt, der zeigt, dass Licht aus Quanten, den sogenannten [[Photon]]en, besteht. Diese Entdeckung, die durch Experimente mit der Gegenfeldmethode quantitativ belegt wurde, unterstrich den Teilchencharakter des Lichts und führte zu Einsteins Nobelpreis im Jahr 1921.
+*Albert Einstein* erklärte 1905 den photoelektrischen Effekt ([[Photoeffekt]]), der zeigt, dass Licht aus Quanten, den sogenannten [[Photon]]en, besteht. Diese Entdeckung, die durch Experimente mit der Gegenfeldmethode quantitativ belegt wurde, unterstrich den Teilchencharakter des Lichts und führte zu Einsteins Nobelpreis im Jahr 1921.
 
 ![Gegenfeldmethode beim photoelektrischen Effekt](fig/Ex4_0423_Photoeffekt_gegenfeldmethode.svg.png)
 
@@ -11,6 +11,11 @@ Die experimentelle Untersuchung des photoelektrischen Effekts basiert auf der Be
 
 
 *Albert Einstein* lieferte 1905 eine Erklärung für diese Beobachtungen, indem er die Quantisierung von Licht vorschlug. Er erhielt für diese Erklärung, die Licht als aus Photonen bestehend annimmt, 1921 den Nobelpreis. Jedes Photon trägt die Energie $E = h\nu$, wobei $\nu$ die Frequenz des Lichtes ist. Der photoelektrische Effekt lieferte somit einen direkten Beweis für die Quantennatur des Lichts und spielte eine zentrale Rolle in der Entwicklung der Quantenmechanik.
+
+![[photoeffekt-strom-spannung.png]]
+Im Experiment zum photoelektrischen Effekt zeigt das Strom-Spannungs-Diagramm deutlich, wie die Lichtintensität die Anzahl der emittierten Elektronen und somit den Sättigungsstrom beeinflusst. Mit steigender Lichtintensität erhöht sich die Anzahl der Photonen, die auf das Material treffen, was zu einer größeren Anzahl von emittierten Elektronen führt. Dies äußert sich in einem höheren Sättigungsstrom für höhere Lichtintensitäten, wie in den Kurven dargestellt. Die Sättigung zeigt, dass alle verfügbaren Photoelektronen von der Anode eingefangen werden.
+
+Der Stoppspannung, der Spannung, bei der der Strom auf null fällt, weil selbst die energiereichsten Photoelektronen nicht mehr die Anode erreichen können, bleibt jedoch unabhängig von der Lichtintensität konstant. Dies liegt daran, dass die Stoppspannung nur von der Energie der Photonen (ihrer Frequenz) und der Austrittsarbeit des Materials abhängt, nicht aber von der Anzahl der Photonen.
 
 
  *Folder tags:*

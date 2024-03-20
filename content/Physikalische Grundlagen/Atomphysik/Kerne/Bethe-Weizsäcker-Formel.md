@@ -17,6 +17,7 @@ $$E = a_v A - a_o A^\frac{2}{3} - a_c Z (Z-1) A^{-\frac{1}{3}} + a_s \frac{(N-Z)
         0 &\text{für } \mathbf{g,u} \text{ oder } \mathbf{u,g}\\
         -a_p A^{-\frac{1}{2}} &\text{für } \mathbf{u,u}
     \end{cases}$$
+![[Bethe-Weizsäcker.svg]]
 
 Diese Korrekturen favorisieren symmetrische Kombinationen von [[Proton]]en und [[Neutron]]en sowie eine gerade Anzahl beider Nukleonenarten. Der Term $a_s$ bevorzugt symmetrische Kerne, während $a_p$ gerade Anzahlen von Protonen und Neutronen begünstigt.
 

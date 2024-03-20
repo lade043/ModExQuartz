@@ -12,6 +12,16 @@ $$
 Die *Fermi-Energie* ist die dem Impuls zugeordnete Energie. Ein solches Gas wird auch als **entartetes Gas** bezeichnet.
 Im Extremfall von $T=0$ sind alle Zustände bis $p_F$ besetzt und kein einziger darüber. Mit steigender Temperatur verschwimmt die Grenze. Für die Verteilung siehe [[Stochastische Verteilungen#*Fermi-Dirac*-Verteilung]]
 
+# Ladungstransport
+Der Ladungstransport im **Elektronengas** wurde zuerst von *Paul Drude* im **Drude-Modell** erklärt. Die Elektronen können sich frei bewegen. Es entsteht ein Widerstand durch Kollision mit den Atomrümpfen, wobei die elektrische Leitfähigkeit abgeleitet werden kann als
+$$
+\sigma = \frac{n e^{2}}{m_{e}} \tau
+$$
+
+mit der *mittleren freien Flugzeit* $\tau$.
+*Arnold Sommerfeld* erweitert das Modell um die quantenmechanische Betrachtung mit den Folgen aus dem Abschnitt [[#Fermi-Gas]] (Stichwort [[Stochastische Verteilungen#*Fermi-Dirac*-Verteilung]], [[Pauli-Prinzip]], usw.).
+
+
 
  *Folder tags:*
 

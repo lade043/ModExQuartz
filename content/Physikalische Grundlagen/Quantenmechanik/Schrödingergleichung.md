@@ -11,7 +11,7 @@ $$- \frac{\hbar^2}{2m} \vec{\nabla}^2 \psi(r,t) = i \hbar \frac{\partial}{\parti
 
 # Korrespondenzprinzip und vollständige Schrödingergleichung
 
-Das Korrespondenzprinzip besagt, dass die Quantenmechanik in den Grenzfall klassischer Physik übergehen muss. Bei nicht verschwindendem Potential $V \neq 0$ wird dieses als Operator $\hat{V}(x) = V(x)$ betrachtet, was zur vollständigen Schrödingergleichung führt:
+Das [[Korrespondenzprinzip]] besagt, dass die Quantenmechanik in den Grenzfall klassischer Physik übergehen muss. Bei nicht verschwindendem Potential $V \neq 0$ wird dieses als Operator $\hat{V}(x) = V(x)$ betrachtet, was zur vollständigen Schrödingergleichung führt:
 $$\left(-\frac{\hbar^2}{2m} \vec{\nabla}^2 + V(x)\right) \psi(x,t) = i \hbar \frac{\partial}{\partial t} \psi(x,t).$$
 
 # Messung der Wellenfunktion

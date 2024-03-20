@@ -12,6 +12,7 @@
 Das Spektrum besteht aus einem kontinuierlichen Spektrum der [[Bremsstrahlung]] und charakteristische Peaks aufgrund von Übergängen in die *K*-Schale ($n=1$) aus angehobeben Zuständen.
 ![[Röntgenspektrum-Molybdän_Energien.svg]]
 
+Das [[Bremsstrahlung]]sspektrum weißt einen Cutoff auf, welcher die maximale Elektronenenergie repräsentiert (mehr Energie kann nicht in ein Photon umgewandelt werden)
 
 
  *Folder tags:*

@@ -21,6 +21,7 @@ Außerdem werden kurz angerissen:
    $$\ce{^A_ZA} \longrightarrow \ce{^{A}_{Z-1}B} + {\mathbf{e}^+}+ \nu_e$$
 
 ## Elektroneneinfang
+![[Beta Plus Decay.svg]]
 
   $$\ce{^Z_AA} + {\mathbf{e}^-}\longrightarrow \ce{^A_{Z-1}B} + \nu_e$$
 

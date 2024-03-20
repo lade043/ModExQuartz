@@ -12,7 +12,7 @@ $$
 \left(\frac{\mathrm{d}E}{\mathrm{d}x}\right)_{ion} = \left(\frac{\mathrm{d}E}{\mathrm{d}x}\right)_{brems}
 $$
 mit $E_c \approx \frac{610\,\mathrm{MeV}}{Z+1.24}$.
-Des Weiteren weißt das Bremsstrahlungs-Spektrum diskrete [[Röntgenstrahlung|Röntgen-Peaks]] auf.
+Des Weiteren weißt das Bremsstrahlungs-Spektrum bei einer [[Röntgenstrahlung|Röntgenröhre]] diskrete [[Röntgenstrahlung|Röntgen-Peaks]] auf.
 
 
  *Folder tags:*
