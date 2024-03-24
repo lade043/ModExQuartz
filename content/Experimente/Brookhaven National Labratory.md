@@ -17,7 +17,7 @@ Einige der herausragenden Errungenschaften von Brookhaven umfassen:
 Brookhaven verfügt über mehrere hochrangige Forschungseinrichtungen:
 
 - **RHIC (Relativistic Heavy Ion Collider)**: Ein Beschleuniger, der hochenergetische Kollisionen zwischen schweren Ionen ermöglicht, um Zustände der Materie unter extremen Bedingungen zu untersuchen.
-- **NSLS-II (National Synchrotron Light Source II)**: Eine der weltweit hellsten Synchrotronlichtquellen, die Forschern aus einer Vielzahl von Disziplinen fortschrittliche Imaging- und Analysetechniken bietet.
+- **NSLS-II (National Synchrotron Light Source II)**: Eine der weltweit hellsten [[Synchrotronstrahlung|Synchrotronlicht]]quellen, die Forschern aus einer Vielzahl von Disziplinen fortschrittliche Imaging- und Analysetechniken bietet.
 - **Center for Functional Nanomaterials**: Ein Forschungszentrum, das auf die Entwicklung von Nanotechnologien ausgerichtet ist.
 
 ### Aktuelle Nutzung und Bedeutung

@@ -10,7 +10,7 @@ $$
 \Gamma \approx \frac{\hbar}{\tau}
 $$
 mit der Lebensdauer eines Zustands $\tau$.
-
+Die **Breit-Wigner-Verteilung** wird auch als **Lorentzkurve** bezeichnet.
 
 
  *Folder tags:*

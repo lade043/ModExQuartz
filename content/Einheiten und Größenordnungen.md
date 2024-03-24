@@ -32,6 +32,11 @@ Nach der Entdeckung des [[J psi]] kam es zu immer weiteren suchen nach doppelten
 Seit dem wird in der Teilchenphysik bei neuen Entdeckungen stets eine Signifikanz von $> 5 \sigma$ gefordert.
 
 
+![[teilchenmassen.png]]
+![[teilchenlebensdauern.png]]
+
+
+
  *Folder tags:*
 
 *No folder tags*

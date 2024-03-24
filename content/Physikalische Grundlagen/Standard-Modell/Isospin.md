@@ -11,6 +11,7 @@ Der Schwache Isospin $I$ bzw. $T$ bildet die Symmetriegruppe $SU(2)$ .
 - Alle *chiral rechtshändigen* Teilchen bilden Singuletts bzgl. der Gruppe
 	- -> keine CC-Wechselwirkung mit $W$-Bosonen aber NC-Prozesse möglich (siehe [[Ströme der Teilchenphysik]], [[Elektroschwache Vereinigung]]) 
 
+Die [[Schwache Wechselwirkung]] interagiert mit allen Teilchen mit **Isospin** $T \neq 0$.
 
  *Folder tags:*
 

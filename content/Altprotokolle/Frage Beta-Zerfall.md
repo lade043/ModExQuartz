@@ -7,7 +7,7 @@
 
 # Antwort
 
-Ein [[Neutron]] wird zu [[Proton]] und [[Elektron]] + [[Neutrino]] umgewandelt. Für eine genauere Erläuterung siehe [[Kernprozesse#Der Beta-Zerfall]].
+Ein [[Neutron]] wird zu [[Proton]] und [[Elektron]] + [[Neutrino]] umgewandelt. Für eine genauere Erläuterung siehe [[Kernprozesse#Der Beta-Zerfall]] und das nachfolgende [[Feynman-Diagramme]]
 ![[Feynman_Beta_Negative_Decay.svg]]
 
 Im $\beta^{+}$-Zerfall kommt es zur Umwandlung von einem [[Proton]] zu einem [[Neutron]] mit Positron und Neutrino. Der Zerfall ist energetisch nur möglich wenn die Bindungsenergie im Kern sich danach stark verbessert, da sonst energetisch gehindert. (Kerne mit sehr vielen Protonen -> [[Bethe-Weizsäcker-Formel]]).

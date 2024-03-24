@@ -23,6 +23,8 @@ Insbesondere kommt es dabei auf die Unterschiede in der [[Mathematik der Bosonen
 
 ![[Verteilungen.png]]
 
+# *Breit-Wigner*-Verteilung
+![[Resonanzen]]
 
 
  *Folder tags:*

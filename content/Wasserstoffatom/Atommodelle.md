@@ -57,7 +57,9 @@ $$
 \frac{d \sigma}{d \Omega} = (2 m_{e}Z \alpha)^{2}\frac{1}{q^{4}}\qquad \text{mit} \qquad q = 2 p \sin(\frac{\theta}{2})
 $$
 Da die Streuung aufgrund der geringen Energie der $\alpha$-Teilchen im Ruhterford-Prozess jedoch nur am $\frac{1}{r}$-Potential des Kerns geschieht, ist keine genaue Auflösung der Kernstruktur oder **-größe** möglich.
+Bei höheren Energien kommen Effekte wie durch die [[Streuexperimente zur Strukturanalyse#Mott-Streeung]] und den [[Streuexperimente zur Strukturanalyse#Formfaktor]] hinzu.
 
+![[rutherford_mott.png]]
 
 Dies führte zu einem Vergleich mit dem Sonnensystem, bei dem die Elektronen um den Kern kreisen wie Planeten um die Sonne. Allerdings ergibt sich ein fundamentales Problem mit dieser Analogie: Nach den Gesetzen der klassischen Physik müssten sich bewegende Elektronen kontinuierlich Energie in Form von elektromagnetischer Strahlung abgeben und schließlich in den Kern stürzen, was in der Realität nicht beobachtet wird. Dieser Widerspruch zur klassischen Physik deutet auf die Notwendigkeit einer neuen Theorie hin, die später als Quantenmechanik bekannt wurde.
 
@@ -70,7 +72,7 @@ Die Vorstellung, dass Elektronen in diskreten Bahnen um den Atomkern kreisen und
 $$R_H = \frac{m_r c^2}{2} \alpha^2 Z^2$$
 
 Bohr stellt dabei **3 Postulate** auf:
-1. Dem Elektron stehen nicht alle klassisch möglichen Bahnen zur Verfügung, sondern nur bestimmte ausgewählte von ihnen. Auf diesen Bahnen erzeugt es keine elektromagnetische Strahlung, sondern behält seine Energie. Dies sind die stationären Zustände des Atoms.
+1. Dem Elektron stehen nicht alle klassisch möglichen Bahnen zur Verfügung, sondern nur bestimmte ausgewählte von ihnen. Auf diesen Bahnen erzeugt es keine elektromagnetische Strahlung ([[Synchrotronstrahlung]]), sondern behält seine Energie. Dies sind die stationären Zustände des Atoms.
 2. Das Elektron kann von einem stationären Zustand in einen anderen springen. Dieser als Quantensprung bezeichnete Vorgang liegt außerhalb des Gültigkeitsbereichs der klassischen Mechanik und der Elektrodynamik. Beim Quantensprung zwischen stationären Zuständen mit verschiedener Energie, den Energieniveaus, wird elektromagnetische Strahlung emittiert oder absorbiert. Dabei wird die Frequenz  $f$ der Strahlung nicht durch die Umlauffrequenz des Elektrons bestimmt, sondern ausschließlich durch die Energiedifferenz  $\Delta E$ der beiden Zustände nach der von Max Planck für die Wärmestrahlung entdeckten Formel $f = \frac{\Delta E}{h}$
 3. Die Frequenz der erzeugten oder absorbierten Strahlung nähert sich der Umlauffrequenz des Elektrons an, wenn sich das Elektron im Anfangszustand nur langsam bewegt und in den energetisch nächstgelegenen Zustand springt.
 ## Erweiterung durch Sommerfeld

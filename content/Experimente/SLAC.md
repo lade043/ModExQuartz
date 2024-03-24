@@ -18,7 +18,7 @@ Das Hauptziel des SLAC ist die Erforschung der fundamentalen Struktur des Univer
 
 - **Teilchenphysik**: Untersuchung der fundamentalen Teilchen und Kräfte, einschließlich der Suche nach neuer Physik jenseits des Standardmodells.
 - **Astroteilchenphysik und Kosmologie**: Erforschung des Universums auf den größten Skalen, einschließlich der dunklen Materie und der dunklen Energie.
-- **Materialwissenschaften und Chemie**: Nutzung von Synchrotronlichtquellen und Freie-Elektronen-Lasern zur Untersuchung der Eigenschaften von Materialien und chemischen Reaktionen auf atomarer Ebene.
+- **Materialwissenschaften und Chemie**: Nutzung von [[Synchrotronstrahlung|Synchrotronlicht]]quellen und Freie-Elektronen-Lasern zur Untersuchung der Eigenschaften von Materialien und chemischen Reaktionen auf atomarer Ebene.
 - **Biophysik und Medizinische Physik**: Anwendung von Röntgenstrahltechniken zur Untersuchung biologischer Moleküle und Prozesse, mit dem Ziel, neue Einblicke in lebenswichtige biologische Systeme und Krankheitsmechanismen zu gewinnen.
 
 Das SLAC National Accelerator Laboratory bleibt an der vordersten Front der Forschung, indem es ständig neue Technologien entwickelt und anwendet, um die Geheimnisse des Universums zu entschlüsseln.

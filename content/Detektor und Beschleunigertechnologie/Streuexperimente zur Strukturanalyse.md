@@ -27,7 +27,7 @@ $$
 \left(\frac{d \sigma}{d \Omega}\right)_\text{Mott} = \left(\frac{d \sigma}{d \Omega}\right)_\text{Rutherford} \cdot \frac{E_f}{E_{i}}(1 - \beta^{2}\sin^2(\frac{\theta}{2}))
 $$
 
-
+![[rutherford_mott.png]]
 ## Formfaktor
 Die Streuung an ausgedehnten Objekten bedarf der Einführung des Formfaktors. Bei hohem Impulstransfer $|\vec{q}|$ . Falls die *de-Broglie-Wellenlänge* des Projektils $\lambda \approx R$ (Kernradius) finden wir Abweichungen, welche durch den Formfaktor $F(\vec{q})$ ausgeglichen werden.
 
@@ -47,7 +47,7 @@ Bei solch einem hohen Impulstransfer koppeln die Elektronen an die Ladung und da
 $$
 \left(\frac{d \sigma}{d \Omega}\right)_\text{exp} = \left(\frac{d \sigma}{d \Omega}\right)_\text{Mott} \cdot \left(\underbrace{\frac{G_{E}^{2}+ \frac{Q^2}{4M^{2}}G_{M}^2}{1+\frac{Q^2}{4M^{2}}}}_{\theta \text{ unabh.}} +\underbrace{\frac{Q^2}{2M^{2}}G_M^2\tan^2(\theta/2)}_{\theta\text{ abh.}}\right)
 $$
-mit dem magnetischen und elektrischen Formfaktor $G_{M/E}(Q^2)$. Dieser Wirkungsquerschnitt wird auch gerne zur Rosenbluth-Formel verallgemeinert mit
+mit dem magnetischen und elektrischen Formfaktor $G_{M/E}(Q^2)$. Dieser Wirkungsquerschnitt wird auch gerne zur *Rosenbluth-Formel* verallgemeinert mit
 $$
 A(Q^{2)} + B(Q^{2)}\tan^2(\frac{\theta}{2})
 $$
