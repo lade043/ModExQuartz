@@ -24,6 +24,12 @@ M(\lambda) d \lambda = \frac{2 \pi h c^{2}}{\lambda^{5}} \frac{d \lambda}{e^{\fr
 $$
 Das System konnte Energie nur in kleinsten Portionen von $h \nu$ aufnehmen und abgeben.
 
+# Wiensches Verschiebungsgesetz
+Die Wellenlänge mit der maximalen Leistung verhält sich nach dem **Wienschen Verschiebungsgesetz** wie folgt
+$$
+\lambda_{max} = \frac{b}{T}
+$$
+
  *Folder tags:*
 
 #folder-Physikalische-Grundlagen #folder-Atomphysik

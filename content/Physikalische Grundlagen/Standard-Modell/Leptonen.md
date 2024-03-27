@@ -9,6 +9,8 @@
 3. **Myonen (μ⁻, μ⁺):** Schwerere geladene Leptonen, die eine größere Masse als Elektronen haben. Sie können in Wechselwirkungen auftreten, die dem Elektron ähnlich sind.
 
 4. **Myon-Neutrinos (νμ):** Neutrinos, die mit Myonen in Verbindung stehen und bei bestimmten Zerfällen erzeugt oder absorbiert werden.
+   
+6. **Tauoen ($\tau$)**: Schwerstes Lepton. Äquivalentes Neutrino.
 
 Zur Einordnung der **Leptonen** in das [[Standard-Modell]] siehe [[SM.jpg]]
 
