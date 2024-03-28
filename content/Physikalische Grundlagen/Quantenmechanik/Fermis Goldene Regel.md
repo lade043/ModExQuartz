@@ -12,4 +12,4 @@ mit dem Anfangszustand $\ket{i}$ und dem Endzustand $\bra{f}$. Die Zustandsdicht
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

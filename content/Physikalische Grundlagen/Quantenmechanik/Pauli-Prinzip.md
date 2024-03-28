@@ -7,4 +7,4 @@ Im Kontext des [[Wasserstoffatom]]s und anderer gebundenen Zustände sagt es jed
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

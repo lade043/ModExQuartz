@@ -21,4 +21,4 @@ Für mehr Details siehe [[Axialgleichung]] und evtl. [[Radialgleichung]]
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

@@ -58,4 +58,4 @@ Spontane Emission
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik
+#folder/Physikalische-Grundlagen #folder/Atomphysik

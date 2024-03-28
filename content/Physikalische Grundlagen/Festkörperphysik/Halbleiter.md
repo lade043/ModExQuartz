@@ -13,4 +13,4 @@ Durch Einbringen von [[Kristallfehler]] in einen Halbleiterkristall können die 
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

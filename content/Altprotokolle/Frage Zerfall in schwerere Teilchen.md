@@ -18,4 +18,4 @@ Wir brauchen mehr Energie: Siehe [[Frage Beta-Zerfall]]
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

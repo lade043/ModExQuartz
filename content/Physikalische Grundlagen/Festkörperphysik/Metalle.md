@@ -5,4 +5,4 @@
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

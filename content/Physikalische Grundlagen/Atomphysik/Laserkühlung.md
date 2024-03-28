@@ -11,4 +11,4 @@ Das Prinzip der Laserkühlung schafft es die Geschwindigkeit der Gasatome auf ei
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik
+#folder/Physikalische-Grundlagen #folder/Atomphysik

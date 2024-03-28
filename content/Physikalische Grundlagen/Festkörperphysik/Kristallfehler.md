@@ -27,4 +27,4 @@ Durch die Entstehung einer Versetzung ändern sich die [[Elastische Eigenschafte
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

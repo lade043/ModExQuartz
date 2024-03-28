@@ -16,4 +16,4 @@
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

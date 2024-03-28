@@ -25,4 +25,4 @@ mit der *mittleren freien Flugzeit* $\tau$.
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

@@ -9,6 +9,7 @@
 Virtuelle Teilchen besitzen eine zu große Masse, als dass sie in Prozessen wie [[Kernprozesse#Der Beta-Zerfall]] 
 auftreten können. Durch die [[Heisenbergsche Unschärferelation]] kann für kurze Zeiten, jedoch gegen Energieerhaltung verstoßen werden und die Teilchen können für Interaktion genutzt werden.
 Das virtuelle Teilchen ist nach außen nie sichtbar.
+Weiterhin ist durch die große Masse der [[Bosonen]] in der [[Schwache Wechselwirkung]] diese schwach und die Zerfälle im allgemeinen recht träge. Trotzdem ist der schnellste bekannte Zerfall der 
 
 # Vorkommen
 1. [[Notizen_2023-06-06_Altprotokoll_Wolf]]
@@ -20,4 +21,4 @@ Das virtuelle Teilchen ist nach außen nie sichtbar.
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

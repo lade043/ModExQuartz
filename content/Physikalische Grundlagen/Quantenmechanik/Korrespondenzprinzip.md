@@ -19,4 +19,4 @@ Diese Operatoren und ihre Anwendungen sind zentral in der Quantenmechanik und er
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

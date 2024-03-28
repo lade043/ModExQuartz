@@ -55,4 +55,4 @@ Diese Verfeinerung erlaubt bereits eine genauere Aussage, als das Einsteinmodell
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

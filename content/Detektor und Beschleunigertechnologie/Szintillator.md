@@ -6,4 +6,4 @@ Die abgegebenen Photonen sind im Bereich des klassischen Lichts und die Menge gi
 
  *Folder tags:*
 
-#folder-Detektor-und-Beschleunigertechnologie
+#folder/Detektor-und-Beschleunigertechnologie

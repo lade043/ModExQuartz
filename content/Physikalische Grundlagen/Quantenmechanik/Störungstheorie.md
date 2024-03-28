@@ -30,4 +30,4 @@ Die zeitabhängige Störungstheorie behandelt Systeme, deren Störungen sich mit
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

@@ -3,7 +3,7 @@
 
 > [!question] Frage
 > Wie funktioniert der Beta-Zerfall, und was unterscheidet den Beta-Plus von dem Beta-Minus-Zerfall? Gibt es einen neutrinolosen Beta-Zerfall?
-> 
+>  Wie sieht die Energieverteilung aus und wie hängt diese mit dem Neutrino zusammen?
 
 # Antwort
 
@@ -16,6 +16,7 @@ Siehe auch [[Kernmodelle]].
 Neutrinoloser Beta-Zerfall im Doppel-Beta-Zerfall postuliert. Kein Nachweis bisher. Verletzung der [[Leptonenzahl]].
 ![[Double_beta_decay_feynman.svg]]
 
+![[Neutrino#Nachweis von Neutrinos]]
 # Vorkommen
 1. [[Notizen_2022-11-07_Altprotokoll_Wolf]]
 2. [[Notizen_2023-02-09_Altprotokoll_Wolf]]
@@ -31,4 +32,4 @@ Neutrinoloser Beta-Zerfall im Doppel-Beta-Zerfall postuliert. Kein Nachweis bish
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

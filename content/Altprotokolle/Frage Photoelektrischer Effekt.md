@@ -32,4 +32,4 @@ Beim Photoeffekt werden wird monochromatisches Licht auf einen Festkörper gesch
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

@@ -8,4 +8,4 @@ Erklärung der verschiedenen [[Kernprozesse]] durch *tunneln*.
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik #folder-Kerne
+#folder/Physikalische-Grundlagen #folder/Atomphysik #folder/Kerne

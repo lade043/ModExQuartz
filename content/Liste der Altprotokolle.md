@@ -12,7 +12,7 @@
 - [x] Altprotokoll vom 2022-10-19: [[Notizen_2022-10-19_Altprotokoll_Wolf|Link zum Protokoll]]
 - [x] Altprotokoll vom 2022-09-08: [[Notizen_2022-09-08_Altprotokoll_Wolf|Link zum Protokoll]]
 - [x] Altprotokoll vom 2022-09-00: [[Notizen_2022-09-00_Altprotokoll_Wolf|Link zum Protokoll]]
-- [ ] Altprotokoll vom 2019-12-19: [[Notizen_2019-12-19_Altprotokoll_Wolf|Link zum Protokoll]]
+- [x] Altprotokoll vom 2019-12-19: [[Notizen_2019-12-19_Altprotokoll_Wolf|Link zum Protokoll]]
 - [x] Altprotokoll vom 2019-04-18: [[Notizen_2019-04-18_Altprotokoll_Wolf|Link zum Protokoll]] *quasi fertig*
 - [x] Altprotokoll vom 2018-08-06: [[Notizen_2018-08-06_Altprotokoll_Wolf|Link zum Protokoll]] *quasi fertig*
 - [ ] Altprotokoll vom 2018-06-08: [[Notizen_2018-06-08_Altprotokoll_Wolf|Link zum Protokoll]]

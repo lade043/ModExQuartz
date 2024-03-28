@@ -12,4 +12,4 @@ $$
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

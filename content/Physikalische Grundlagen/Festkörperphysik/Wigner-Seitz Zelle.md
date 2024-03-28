@@ -8,4 +8,4 @@ Man wähle einen Punkt in der  [[Gittergeometrie]] und halbiert die Verbindungss
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

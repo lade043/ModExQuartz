@@ -60,4 +60,4 @@ Im Folgenden sind die Bravais-Gitter nach den Kristallsystemen, mit abnehmender 
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

@@ -10,4 +10,4 @@ Ein Beispiel für die Gestalt der ersten Brillouin-Zone ist bei einem kubisch ra
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

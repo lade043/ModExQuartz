@@ -21,4 +21,4 @@ Die Forschungsarbeiten des XENON-Experiments sind ein zentraler Bestandteil der 
 
  *Folder tags:*
 
-#folder-Experimente
+#folder/Experimente

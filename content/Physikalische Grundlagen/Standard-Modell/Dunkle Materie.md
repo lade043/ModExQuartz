@@ -10,4 +10,4 @@
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Standard-Modell
+#folder/Physikalische-Grundlagen #folder/Standard-Modell

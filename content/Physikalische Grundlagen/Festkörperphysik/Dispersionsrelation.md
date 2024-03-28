@@ -26,4 +26,4 @@ Allgemein gilt für ein Gitter mit $p$-atomiger Basis, gibt es 3 akustische und 
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

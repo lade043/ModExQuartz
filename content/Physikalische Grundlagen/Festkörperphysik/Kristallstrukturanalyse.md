@@ -27,4 +27,4 @@ Wenn die gestreute Strahlung aufgefangen wird, können glatte Ringe beoobachtet 
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

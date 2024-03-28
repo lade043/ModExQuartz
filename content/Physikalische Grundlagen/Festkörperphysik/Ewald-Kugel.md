@@ -9,4 +9,4 @@ Liegen zwei Gitterpunkte auf der Kugeloberfläche, kommt es zu einem Reflex
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

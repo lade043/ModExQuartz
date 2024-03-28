@@ -27,4 +27,4 @@ Das Brookhaven National Laboratory bleibt ein Zentrum für wissenschaftliche Inn
 
  *Folder tags:*
 
-#folder-Experimente
+#folder/Experimente

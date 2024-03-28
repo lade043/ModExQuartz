@@ -29,4 +29,4 @@ Insbesondere kommt es dabei auf die Unterschiede in der [[Mathematik der Bosonen
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

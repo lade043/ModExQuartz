@@ -20,4 +20,4 @@ Gibt es eine [[Dispersionsrelation]] so läuft das Wellenpaket zumeist auseinand
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

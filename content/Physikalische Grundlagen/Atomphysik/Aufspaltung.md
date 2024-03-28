@@ -5,4 +5,4 @@ Die Aufspaltung von Spektrallinien ist ein fundamentales Phänomen in der Atom- 
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik
+#folder/Physikalische-Grundlagen #folder/Atomphysik

@@ -9,4 +9,4 @@ $$
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik #folder-Kerne
+#folder/Physikalische-Grundlagen #folder/Atomphysik #folder/Kerne

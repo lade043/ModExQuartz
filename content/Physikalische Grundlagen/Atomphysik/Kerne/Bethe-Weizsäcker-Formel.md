@@ -24,4 +24,4 @@ Diese Korrekturen favorisieren symmetrische Kombinationen von [[Proton]]en und [
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik #folder-Kerne
+#folder/Physikalische-Grundlagen #folder/Atomphysik #folder/Kerne

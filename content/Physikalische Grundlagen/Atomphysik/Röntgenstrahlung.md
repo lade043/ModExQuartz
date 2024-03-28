@@ -17,4 +17,4 @@ Das [[Bremsstrahlung]]sspektrum weißt einen Cutoff auf, welcher die maximale El
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik
+#folder/Physikalische-Grundlagen #folder/Atomphysik

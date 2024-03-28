@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="800" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g stroke-linecap="round" stroke-linejoin="round">
+		<path d="m121.2 695.34h94.625" fill="#255e91" stroke="#000" stroke-width="3"/>
+		<rect transform="rotate(60)" x="202.19" y="-170.75" width="21.545" height="67.507" fill="#f9f9f9" stroke="#999" stroke-width="2"/>
+		<path d="m872 127.44h-642.1l-123 490.35" fill="none" stroke="#00923f" stroke-width="3.5"/>
+		<path d="m872 123.12h-641.56v595.61" fill="none" stroke="#da251d" stroke-width="3.5"/>
+		<rect transform="rotate(90)" x="607.21" y="-208.6" width="21.545" height="197.97" fill="#f2f2f2" stroke="#000" stroke-width="2"/>
+		<rect transform="rotate(90)" x="607.21" y="-362.5" width="21.545" height="110.12" fill="#f2f2f2" stroke="#000" stroke-width="2"/>
+	</g>
+	<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path d="m758.7 55.77a36.421 80.263 0 0 0-18.211 69.51 36.421 80.263 0 0 0 18.211 69.508 36.421 80.263 0 0 0 18.209-69.508 36.421 80.263 0 0 0-18.209-69.51z" stroke="#000" stroke-width="2"/>
+		<g stroke-dasharray="2, 6" stroke-width="2">
+			<path d="m230.5 125.28 528.22-24.583 48.338 24.583 47.592-44.918" stroke="#00923f"/>
+			<path d="m854.6 80.37-624.15 44.918" stroke="#da251d"/>
+			<path d="m230.45 125.29 528.22 41.34 48.338-41.34 52.747 19.422" stroke="#00923f"/>
+		</g>
+		<g stroke="#da251d">
+			<path d="m859.75 144.71-629.31-19.422" stroke-dasharray="2, 6" stroke-width="2"/>
+			<g stroke-width="3">
+				<circle cx="230.5" cy="754.28" r="35.549"/>
+				<path d="m255.6 779.41-50.273-50.273"/>
+				<path d="m205.3 779.41 50.273-50.273"/>
+			</g>
+		</g>
+		<path d="m230.2 633.53a65.645 65.645 0 0 0-43.537 16.725 65.645 65.645 0 0 0 43.773 16.727 65.645 65.645 0 0 0 43.773-16.727 65.645 65.645 0 0 0-43.773-16.725 65.645 65.645 0 0 0-0.2363 0z" stroke="#000" stroke-width="2"/>
+		<path d="m230.2 471.61a190.94 190.94 0 0 1-81.292-18.282" stroke="#000" stroke-width="3"/>
+	</g>
+	<g stroke="#000" stroke-linejoin="round">
+		<g>
+			<path d="m129.7 702.72-20.08-7.384 20.08-7.384c-1.604 2.1798-2.4013 4.7607-2.399 7.3521 0 2.5916 2.399 7.4158 2.399 7.4158z"/>
+			<path d="m210.4 702.72 20.08-7.384-20.08-7.384c1.604 2.1798 2.4013 4.7607 2.399 7.3521 0 2.5916-2.399 7.4158-2.399 7.4158z"/>
+			<path d="m109.6 715.44v-86.413" fill="#255e91" stroke-linecap="round" stroke-width="2"/>
+			<path d="m242.1 34.09h612.38" fill="#255e91" stroke-linecap="round" stroke-width="3"/>
+			<path d="m250.6 26.71-20.08 7.384 20.08 7.384c-1.604-2.1798-2.4013-4.7607-2.399-7.3521 0-2.5916 2.399-7.4158 2.399-7.4158z"/>
+			<path d="m847.2 26.71 20.08 7.384-20.08 7.384c1.604-2.1798 2.4013-4.7607 2.399-7.3521 0-2.5916-2.399-7.4158-2.399-7.4158z"/>
+			<path d="m230.5 13.99v86.413" fill="#255e91" stroke-linecap="round" stroke-width="2"/>
+			<path d="m867.3 13.99v86.413" fill="#255e91" stroke-linecap="round" stroke-width="2"/>
+			<path d="m209.4 89.74 16.993-0.0676-12.987-10.891c0.6061 2.0497 0.5049 4.1792-0.2035 6.1019-0.703 1.923-3.8025 4.8562-3.8025 4.8562z"/>
+		</g>
+		<g stroke-linecap="round" stroke-width="2">
+			<path d="m192.6 115.12a20.318 20.318 0 0 1 3.0774-24.373 20.318 20.318 0 0 1 24.303-3.5937" fill="none"/>
+			<rect transform="rotate(45)" x="230.01" y="-108.11" width="21.545" height="67.507" fill="#f2f2f2"/>
+			<path d="m844.2 57.91a36.421 80.263 0 0 1 16.623 67.369 36.421 80.263 0 0 1-16.623 67.369h45.06v-134.74z" fill="#f2f2f2"/>
+		</g>
+	</g>
+	<g font-family="DejaVu Sans" font-size="35" font-weight="bold" text-anchor="middle">
+		<text x="175" y="89">ω</text>
+		<text x="91" y="599">P</text>
+		<text x="262" y="599">D</text>
+		<text x="168" y="689">x</text>
+		<text x="195" y="453">α</text>
+		<text x="548" y="28">s</text>
+	</g>
+</svg>

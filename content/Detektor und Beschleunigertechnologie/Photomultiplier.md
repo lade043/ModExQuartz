@@ -13,4 +13,4 @@ Photomultiplier Tubes, kurz PMTs, sind hochempfindliche Lichtdetektoren, die sel
 
  *Folder tags:*
 
-#folder-Detektor-und-Beschleunigertechnologie
+#folder/Detektor-und-Beschleunigertechnologie

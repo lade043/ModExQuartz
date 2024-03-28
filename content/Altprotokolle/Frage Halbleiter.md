@@ -18,4 +18,4 @@ Verwendung in Computern (Transistoren), Schaltungen (Transistoren, Dioden, etc.)
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

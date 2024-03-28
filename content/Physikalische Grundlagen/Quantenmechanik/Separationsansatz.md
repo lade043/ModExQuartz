@@ -9,4 +9,4 @@ Mit generischen DGLen für die separierten Funktionen.
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Quantenmechanik
+#folder/Physikalische-Grundlagen #folder/Quantenmechanik

@@ -22,4 +22,4 @@ Durch die Präzisionsmessungen von KATRIN erhofft sich die wissenschaftliche Gem
 
  *Folder tags:*
 
-#folder-Experimente
+#folder/Experimente

@@ -24,4 +24,4 @@ Die folgenden Strukturen sind üblich:
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Festkörperphysik
+#folder/Physikalische-Grundlagen #folder/Festkörperphysik

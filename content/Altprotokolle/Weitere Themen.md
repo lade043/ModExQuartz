@@ -90,4 +90,4 @@ annotation-target: "[[FragenEx.pdf]]"
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle

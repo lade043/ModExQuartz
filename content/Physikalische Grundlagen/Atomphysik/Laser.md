@@ -21,4 +21,4 @@ Des Weiteren wird der Effekt der stimulierten Emission zur Verstärkung von Lich
 
  *Folder tags:*
 
-#folder-Physikalische-Grundlagen #folder-Atomphysik
+#folder/Physikalische-Grundlagen #folder/Atomphysik

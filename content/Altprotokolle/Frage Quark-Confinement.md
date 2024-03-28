@@ -17,4 +17,4 @@ Grundlegende [[Symmetrien des Standard-Modells]] bzgl der Farbe und es gibt kein
 
  *Folder tags:*
 
-#folder-Altprotokolle
+#folder/Altprotokolle
